@@ -157,13 +157,21 @@ if(isset($_SESSION['user_id'])){
 
 </section>
 
+<section class="about" id="about">
 
+    <div class="image-map">
+    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2849.290702292594!2d26.1380741!3d44.4271988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1fef062d41c57%3A0x462dcff930e0d97d!2s%C8%98oseaua%20Mihai%20Bravu%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1632409941304!5m2!1sro!2sro" width="600" height="450" allowfullscreen="" loading="lazy">
+    </iframe>
+    </div>
 
+    <div class="content">
+        <span>location</span>
+        <h3 class="title">Where you can find us</h3>
+        <p>În magazinul nostru găsiți o selecție impresionantă de parfumuri premium și exclusive, atent alese pentru a satisface toate preferințele și stilurile. Ne străduim să creăm o atmosferă caldă și primitoare, unde să vă bucurați de timpul petrecut explorând aromele care vă definesc personalitatea.
+Vă așteptăm cu drag să descoperiți universul parfumurilor de calitate, de luni până sâmbătă, între orele 10-20, și să deveniți parte din comunitatea noastră pasionată de arome deosebite.</p> 
+    </div>
 
-
-
-
-
+</section>
 
 <?php include 'components/footer.php'; ?>
 
